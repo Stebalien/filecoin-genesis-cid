@@ -1,0 +1,16 @@
+{
+  "name": "genesis-cid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cids": "^1.0.0",
+    "multihashes": "^3.0.1"
+  }
+}
